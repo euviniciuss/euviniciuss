@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px"       alt="LinkedIn"></a> &nbsp; &nbsp;
    <a href="mailto:dev.mvsc@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/dev-viniciuss"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github"></a> &nbsp; 
-   <a href="https://discord.com/users/deuterium#1689"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord"></a> &nbsp; &nbsp;
+   <a href="https://discord.com/users/Marcus Vinicius#9740"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord"></a> &nbsp; &nbsp;
 </p>
