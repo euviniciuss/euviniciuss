@@ -1,7 +1,7 @@
 ## 🌎 Hello World!
 [![GitHub followers](https://img.shields.io/github/followers/dev-viniciuss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dev-viniciuss?tab=followers)
 
-Olá 🖖 me chamo [Marcus Vinicius](https://github.com/dev-viniciuss) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.JS e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
+Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.JS e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
 
 
 ## 🧐 Um pouco mais sobre mim
