@@ -1,9 +1,17 @@
-## Marcus Vinicius
+## 🌎 Hello World!
 [![GitHub followers](https://img.shields.io/github/followers/dev-viniciuss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dev-viniciuss?tab=followers)
 
-![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
+Olá 🖖 me chamo [Marcus Vinicius](https://github.com/dev-viniciuss) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.JS e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
 
-### Linguagens e Ferramentas  
+&nbsp;
+## 🧐 Um pouco mais sobre mim
+- 👨‍💻 Programador desde os 15 anos
+- 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
+- 🖥️ Fascinado por desenvolvimento web
+- 🚀 Buscando sempre aprender cada dia mais
+
+&nbsp;
+### 🛠️ Linguagens e Ferramentas  
 
 <code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -20,9 +28,11 @@
 <code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+&nbsp;
+## <img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
+![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
 
-
-&nbsp; &nbsp;
+&nbsp;
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
@@ -40,8 +50,3 @@
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord">
   </a> &nbsp;&nbsp;
 </p>
-
-
-
-<img src="https://media1.giphy.com/media/l4KhQo2MESJkc6QbS/200w.webp?cid=ecf05e472r3supdzzqkzz348f5v85dhnr5nnr7vypyejvwt0&rid=200w.webp">
-<img src="https://media2.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
