@@ -3,14 +3,14 @@
 
 Olá 🖖 me chamo [Marcus Vinicius](https://github.com/dev-viniciuss) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.JS e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
 
-&nbsp;
+
 ## 🧐 Um pouco mais sobre mim
 - 👨‍💻 Programador desde os 15 anos
 - 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
 - 🖥️ Fascinado por desenvolvimento web
 - 🚀 Buscando sempre aprender cada dia mais
 
-&nbsp;
+
 ### 🛠️ Linguagens e Ferramentas  
 
 <code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
@@ -28,7 +28,7 @@ Olá 🖖 me chamo [Marcus Vinicius](https://github.com/dev-viniciuss) 😄 Sou 
 <code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-&nbsp;
+
 ## <img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
 ![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
 
