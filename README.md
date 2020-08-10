@@ -28,10 +28,8 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
 <code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-## <img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
+## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
 ![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
-
 
 &nbsp;
 <p align="center">
