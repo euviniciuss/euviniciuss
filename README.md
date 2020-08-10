@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
-  </a> &nbsp; &nbsp;
+  </a> &nbsp;
   <a href="mailto:dev.mvsc@gmail.com">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail">
   </a> &nbsp;
