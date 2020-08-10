@@ -1,10 +1,10 @@
 ## 🌎 Hello World!
 [![GitHub followers](https://img.shields.io/github/followers/dev-viniciuss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dev-viniciuss?tab=followers)
 
-Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.JS e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
+Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.js e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
 
 
-## 🧐 Um pouco mais sobre mim
+## 👨‍🚀 Um pouco mais sobre mim
 - 👨‍💻 Programador desde os 15 anos
 - 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
 - 🖥️ Fascinado por desenvolvimento web
@@ -32,7 +32,10 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
 ## <img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
 ![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
 
+
 &nbsp;
+<div align="center">
+<i>Follow me:</i><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
@@ -50,3 +53,4 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord">
   </a> &nbsp;&nbsp;
 </p>
+</div>
