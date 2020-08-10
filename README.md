@@ -34,10 +34,6 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
 
 
 &nbsp;
-<div align="center">
-  
-<i>Follow me:</i><br>
-&nbsp;  
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
@@ -55,4 +51,3 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord">
   </a> &nbsp;&nbsp;
 </p>
-</div>
