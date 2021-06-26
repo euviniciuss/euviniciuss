@@ -32,8 +32,6 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
 ## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
 ![Marcus Vinicius github stats](https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight)
 
-![Snake animation](https://github.com/dev-viniciuss/dev-viniciuss/blob/output/github-contribution-grid-snake.svg)
-
 &nbsp;
 <p align="center">
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/" target="_blank">
