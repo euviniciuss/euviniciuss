@@ -32,7 +32,4 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-viniciuss&show_icons=true&theme=tokyonight"/>
-</div>
-
+![Snake animation](https://github.com/dev-viniciuss/dev-viniciuss/blob/output/github-contribution-grid-snake.svg)
