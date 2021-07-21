@@ -10,7 +10,7 @@
 </div>
 &nbsp;
 
-Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.js e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](http://www.ceuma.br/nucleodeti/) 🏛️
+Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.js e React Native ⚛️ Além disso, sou estudante de Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](https://www.extranet.ceuma.br/hotsite/) 🏛️
 
 
 ## 👨‍🚀 Um pouco mais sobre mim
