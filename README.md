@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hello World
 
 <div> 
   <a href="https://www.instagram.com/euvinicius.br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-5d52cb?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
