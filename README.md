@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="https://dribbble.com/euviniciusbr" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank">
+  </a>
 </div>
 &nbsp;
 
