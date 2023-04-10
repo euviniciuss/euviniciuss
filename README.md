@@ -18,7 +18,6 @@ Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius
 
 ## 👨‍🚀 Um pouco mais sobre mim
 - 👨‍💻 Programador desde os 15 anos
-- 🧑 Atualmente com 20 anos
 - 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
 - 🖥️ Fascinado por desenvolvimento web
 - 🚀 Buscando sempre aprender cada dia mais
