@@ -13,8 +13,8 @@
 </div>
 &nbsp;
 
-Olá 🖖 me chamo [Marcus Vinicius](https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/) 😄 Sou desenvolvedor web,atualmente me especializando na stack ReactJS,Node.js e React Native ⚛️ Além disso, sou formado em Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento do grupo [CEUMA](https://www.extranet.ceuma.br/hotsite/) 🏛️
-
+Desenvolvedor web, atualmente me especializando na stack ReactJS,Node.js e React Native ⚛️ Além disso, sou formado em Engenharia de Software na [UNDB](https://www.undb.edu.br/) e trabalho no setor de desenvolvimento da [Wefit](https://wefit.com.br/)
+ 
 
 ## 👨‍🚀 Um pouco mais sobre mim
 - 👨‍💻 Programador desde os 15 anos
