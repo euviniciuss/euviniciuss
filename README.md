@@ -23,7 +23,7 @@ Desenvolvedor web, atualmente me especializando na stack ReactJS,Node.js e React
 
 
 ### 🛠️ Linguagens e Ferramentas  
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,styledcomponents,nodejs,figma,py
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,docker,figma,py
 )](https://skillicons.dev)
 
 ![Snake animation](https://github.com/dev-viniciuss/dev-viniciuss/blob/output/github-contribution-grid-snake.svg)
