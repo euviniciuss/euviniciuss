@@ -16,7 +16,7 @@ Desenvolvedor web, atualmente me especializando na stack ReactJS,Node.js e React
  
 
 ## 👨‍🚀 Um pouco mais sobre mim
-- 👨‍💻 Programador desde os 15 anos
+- 👨‍💻 Programador desde os 16 anos
 - 🥇 Participante da [OBI(Olimpíada Brasileira de Programação)](https://olimpiada.ic.unicamp.br/) na edição de 2018
 - 🖥️ Fascinado por desenvolvimento web
 - 🚀 Buscando sempre aprender cada dia mais
